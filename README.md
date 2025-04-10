@@ -103,7 +103,7 @@ public class Main
 
 }
 ```
-
+---
 ### Producto.class
 ```java
 package Principal;
@@ -190,8 +190,8 @@ public class Producto implements Serializable
 	
 	
 }
----
 ```
+---
 ### Productos.class
 ```java
 package Principal;
