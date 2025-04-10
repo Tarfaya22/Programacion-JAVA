@@ -1,4 +1,5 @@
 # ProgramaciónJAVA
+![Logo de java](https://s0.smartresize.com/wallpaper/157/626/HD-wallpaper-java-glitter-logo-programming-language-grid-metal-background-java-creative-programming-language-signs-java-logo-thumbnail.jpg)
 ## Descripcion
 ### Este es el ejercicio 14 de java sobre utilizacion de archivos binarios , en el que hay que almacenar información sobre una lista de productos con la utilizacion FileInputStream y FileOutputStream junto con ObjectInputStream y ObjectOutputStream para manejar los ficheros binarios. 
 ---
